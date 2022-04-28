@@ -1,7 +1,2 @@
 
-### Hyperblog Git lo que nunca aprend√≠, hasta ahora Ì≤ö
-
-Blog increible para el curso de git y github 
-> Es divertido aprender!!
-
-**Este readme es un chiste** n_n
+### Hyperblog Git lo que nunca aprend√≠, hasta ahora!
